@@ -2,39 +2,52 @@
 
   <!-- TOPO -->
   <img
-    src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/git%20it%20girl.png"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=34&duration=3500&pause=300&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=110&lines=Hello+hello;Welcome+to+my+profile+%E2%9C%A8"
     width="80%"
   />
 
   <br><br>
 
-  <!-- TÍTULO -->
-  <h3>Quem Sou Eu?</h3>
+  <!-- SOBRE MIM -->
+  <h3>🌸 Sobre mim</h3>
 
-  <!-- BLOCO QUEM SOU EU -->
   <table>
     <tr>
-      <td width="30%" align="center">
-        <img
-          src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif"
-          height="90"
-        />
-      </td>
-      <td width="70%" align="left">
+      <td width="65%" align="left" valign="top">
         <p>
           🎓 Sistemas de Informação • UFN<br>
           💻 HTML • CSS • Banco de Dados<br>
           📦 Engenharia de Software • Redes de Computadores<br>
           🧠 Desenvolvimento de Sistemas<br>
-          🚀 Buscando estágio / oportunidade júnior em TI<br>
-          🎮 Music • Games • Anime • Code • Café<br>
-          🐾 Yoda • Yumi & Rock Lee & Íris & Nick Nick 🐥✨
+          🚀 Buscando estágio / oportunidade júnior em TI
         </p>
+      </td>
+      <td width="35%" align="center" valign="top">
+        <img
+          src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/git%20it%20girl.png"
+          width="230px"
+        />
       </td>
     </tr>
   </table>
 
   <br>
+
+  <!-- OUTRAS INFORMAÇÕES -->
+  <p>
+    🎮 Music • Games • Anime • Code • Café<br>
+    🐾 Yoda • Yumi & Rock Lee & Íris & Nick Nick 🐥✨
+  </p>
+
+  <br>
+
+  <!-- CALOPSITA -->
+  <img
+    src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif"
+    height="60"
+  />
+
+  <br><br>
 
   <!-- LINKS -->
   <a href="https://www.linkedin.com/in/luizy-pruss/" target="_blank">
