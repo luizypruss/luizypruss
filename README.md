@@ -31,7 +31,7 @@
     <tr>
       <td align="left" valign="top">
         <h3>🌸 Redes</h3>
-        <a href="https://www.linkedin.com/in/luizy-pruss/" target="_blank">
+        <a href="https://www.linkedin.com/in/luizy-pruss-684a2813a/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
         <br><br>
