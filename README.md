@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=34&duration=3500&pause=300&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=110&lines=Hello+hello;Welcome+to+my+profile+%E2%9C%A8" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=34&duration=3500&pause=300&color=FF69B4&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=Hello+hello;Welcome+to+my+profile+%E2%9C%A8" width="80%" />
 
   <br><br>
 
@@ -21,7 +21,7 @@
   <br><br><br><br>
 
   <div>
-    <img src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif" height="65" align="left" />
+    <img src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif" height="90" align="left" />
     <p align="right">🐾 Yoda • Yumi &amp; Rock Lee &amp; Íris &amp; Nick Nick 🐥✨</p>
   </div>
 
@@ -57,10 +57,10 @@
   </table>
 
   <br><br>
-
+<div align="center">
   <h3>🌸 GitHub Status</h3>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luizypruss&show_icons=true&theme=transparent&hide_border=false&title_color=FF69B4&text_color=F8F8F8&icon_color=FF69B4&border_color=FF69B4" />
+  
 
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizypruss&theme=transparent&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=F8F8F8&dates=CFCFCF&border=FF69B4" />
 
