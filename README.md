@@ -10,7 +10,7 @@
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
 </pre>
 <br>
-<img src="https://github.com/luizypruss/Lupsita/blob/birb.gif" height="40" />
+<img src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif" height="40" />
 <br><br>
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
