@@ -1,47 +1,42 @@
 <div align="center">
 
-  
+  <!-- TOPO -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=34&duration=3500&pause=300&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=110&lines=Hello+hello;Welcome+to+my+profile+%E2%9C%A8"
+    src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/git%20it%20girl.png"
     width="80%"
   />
 
   <br><br>
 
-  
+  <!-- TÍTULO -->
+  <h3>Quem Sou Eu?</h3>
+
+  <!-- BLOCO QUEM SOU EU -->
   <table>
     <tr>
-      <td>
-        <pre>
-🎓 Sistemas de Informação • UFN
-💻 HTML • CSS • Banco de Dados
-📦 Engenharia de Software • Redes de Computadores
-🧠 Desenvolvimento de Sistemas
-🚀 Buscando estágio / oportunidade júnior em TI
-🎮 Music • Games • Anime • Code • Café
-🐾 Yoda • Yumi & Rock Lee & Íris & Nick Nick 🐥✨
-        </pre>
-      </td>
-      <td>
+      <td width="30%" align="center">
         <img
-          src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/git%20it%20girl.png"
-          width="260px"
+          src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif"
+          height="90"
         />
+      </td>
+      <td width="70%" align="left">
+        <p>
+          🎓 Sistemas de Informação • UFN<br>
+          💻 HTML • CSS • Banco de Dados<br>
+          📦 Engenharia de Software • Redes de Computadores<br>
+          🧠 Desenvolvimento de Sistemas<br>
+          🚀 Buscando estágio / oportunidade júnior em TI<br>
+          🎮 Music • Games • Anime • Code • Café<br>
+          🐾 Yoda • Yumi & Rock Lee & Íris & Nick Nick 🐥✨
+        </p>
       </td>
     </tr>
   </table>
 
   <br>
 
-  
-  <img
-    src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/birb.gif"
-    height="60"
-  />
-
-  <br><br>
-
-  
+  <!-- LINKS -->
   <a href="https://www.linkedin.com/in/luizy-pruss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -56,7 +51,7 @@
 
   <br><br>
 
-  
+  <!-- STATUS -->
   <h3>🌸 GitHub Status</h3>
 
   <img
@@ -71,7 +66,7 @@
 
   <br><br>
 
-  
+  <!-- STACK -->
   <h3>💻 Minhas Stacks</h3>
 
   <img src="https://skillicons.dev/icons?i=html,css,figma,git,github,vscode" />
