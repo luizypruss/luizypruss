@@ -27,13 +27,13 @@
   <br>
 
   <!-- LINKS -->
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/luizy-pruss/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:luizypp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/SEU-USUARIO" target="_blank">
+  <a href="https://open.spotify.com/user/luizyp" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 
@@ -58,12 +58,5 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Logisim-222222?style=for-the-badge" />
 
-  <br><br>
-
-  <!-- REPOS -->
-  <h3>📌 Meus Repositórios</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizypruss&repo=NOME-DO-REPOSITORIO-1&theme=transparent&title_color=A7A459&text_color=F5F5F5&icon_color=A7A459" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luizypruss&repo=NOME-DO-REPOSITORIO-2&theme=transparent&title_color=A7A459&text_color=F5F5F5&icon_color=A7A459" />
 
 </div>
