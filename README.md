@@ -6,8 +6,8 @@
 
   <div align="left">
     <img src="https://raw.githubusercontent.com/luizypruss/Lupsita/main/git%20it%20girl.png" width="220px" align="right" />
-
-    <h3>🌸 Sobre mim</h3>
+<div>
+    <h3> 🌸 Sobre mim</h3>
     <p>
       🎓 Sistemas de Informação • UFN<br>
       💻 HTML • CSS • Banco de Dados<br>
