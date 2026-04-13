@@ -10,7 +10,7 @@
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://github.com/luizypruss/Lupsita/issues/1#issue-4250505756)" height="40" />
 <br><br>
     
 <!-- [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis) -->
